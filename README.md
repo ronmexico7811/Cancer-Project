@@ -1,1 +1,2 @@
 # Cancer-Project
+This project is centered around a dataset that was found on Kaggle dealing with tumors from breast cancer. The main objective of this project is to compare the effectiveness of 3 different dimension redunction methods. The first method is using a high correlation between the dependent variable and independent variables. The second is using variable importance in a random forest. The third is Principal Component Aanylsis. After the comparing the effectiveness of dimension reduction methods different model effectiveness will be compared. 
